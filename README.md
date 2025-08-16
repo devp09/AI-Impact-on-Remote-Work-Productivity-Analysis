@@ -23,7 +23,7 @@ This repository contains a data analysis project conducted by [Your Name], a Dat
   - Requires pandas and matplotlib libraries.
 
 ## Visualization
-- **File**: `ai_remote_work_chart.png`
+- **ai_remote_work_chart.png**: `ai_remote_work_chart.png`
 - **Description**: A line chart visualizing the impact of AI on remote work productivity from January to August 2025. Green line for productivity increase (peaking at 35%), orange for meeting time reduction (20%), and red for tech fatigue (15%).
 - **Interactive Version**: Published in Power BI or Tableau Public. Check the LinkedIn post for the live link.
 
