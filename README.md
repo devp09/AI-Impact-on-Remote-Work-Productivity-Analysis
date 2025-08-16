@@ -1,5 +1,3 @@
-# AI-Impact-on-Remote-Work-Productivity-Analysis
-
 # AI Impact on Remote Work Productivity Analysis (2025)
 
 ## Overview
